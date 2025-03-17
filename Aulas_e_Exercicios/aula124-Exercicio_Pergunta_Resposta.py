@@ -19,7 +19,7 @@ perguntas = [
     },
 ]
 
-print("-" * 10)
+print("-" * 50)
 print("\nJogo de Pergunta e Resposta")
 acertos = 0
 
