@@ -1,0 +1,13 @@
+# Herança simples - Relações entre classes
+# 
+# Associação - usa - "Um objeto 'usa' o outro objeto"... 
+# Agregação - tem - "Um objeto 'tem' o outro objeto"...
+# Composição - É dono de - "Um objeto 'é dono de' outro objeto"...
+# Herança - É um - "Um objeto 'é um' outro objeto"...
+#
+# Herança vs Composição
+#
+# Classe principal (Pessoa)
+#   -> super class, base class, parent class
+# Classes filhas (Cliente)
+#   -> sub class, child class, derived class
