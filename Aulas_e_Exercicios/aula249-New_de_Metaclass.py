@@ -58,7 +58,7 @@ class Pessoa(metaclass=Meta):
 
     def __init__(self, nome):
         print('MEU INIT')
-        # self.nome = nome
+        self.nome = nome
 
     def falar(self):
         print('FALANDO...')
